@@ -1,0 +1,1 @@
+practicing some simple Git commands that I learned during my batch at Le Wagon.
