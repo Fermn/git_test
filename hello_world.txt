@@ -1,1 +1,5 @@
-practicing some simple Git commands that I learned during my batch at Le Wagon.
+Hello World,
+
+My name is Fermin 👋🏻
+
+I'm a Software Engineer living Seattle 🤓 
